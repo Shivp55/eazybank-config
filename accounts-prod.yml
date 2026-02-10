@@ -4,12 +4,13 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
-    name: "Shaishav Parekh - Product Owner"
+    name: "Shaishav Parekh - Product Manager"
     email: "{cipher}1eb7f2a5f468fc50db7a72063117f11f5bb3050136bf1f9e38a1343f8c1afc3af793d551683a664f078c52dae20f95e6"
   onCallSupport:
     - (453) 392-4829
 
     - (236) 203-0384
+
 
 
 
